@@ -2,10 +2,10 @@
 	"TIDY5E.EditActorImage": "Modifier l'image",
 
 	"TIDY5E.Exhaustion0": "Pas d'effets négatifs",
-	"TIDY5E.Exhaustion1": "Désavantage aux tests de caractéristiques",
+	"TIDY5E.Exhaustion1": "Désavantage aux jets de caractéristiques",
 	"TIDY5E.Exhaustion2": "Vitesse réduite de moitié",
-	"TIDY5E.Exhaustion3": "Désavantage aux jets d'attaques et jets de sauvegardes",
-	"TIDY5E.Exhaustion4": "Points de vie maximum réduit de moitié",
+	"TIDY5E.Exhaustion3": "Désavantage aux jets d'attaque et de sauvegarde",
+	"TIDY5E.Exhaustion4": "Points de vie maximum réduits de moitié",
 	"TIDY5E.Exhaustion5": "Vitesse réduite à 0",
 	"TIDY5E.Exhaustion6": "Mort",
 
@@ -41,32 +41,32 @@
 	"TIDY5E.DeleteDisabledHint": "Montrer le bouton Suppression",
 	"TIDY5E.DeleteEnabledHint": "Cacher le bouton Suppression",
 
-	"TIDY5E.ConvertCurrencyHint": "convertir la monnaie en devise la plus haute",
+	"TIDY5E.ConvertCurrencyHint": "Convertir la monnaie en la devise la plus haute",
 	"TIDY5E.ConvertCurrencyButton": "convertir",
 
 	"TIDY5E.Encumbrance": "Encombrement",
 
-	"TIDY5E.EditSpell": "Editer le Sort",
+	"TIDY5E.EditSpell": "Éditer le Sort",
 	"TIDY5E.DeleteSpell": "Supprimer le Sort",
 	"TIDY5E.AddFav": "Ajouter aux Favoris",
 	"TIDY5E.RemoveFav": "Enlever des Favoris",
 
 	"TIDY5E.ToggleInfo": "Afficher les informations",
 
-	"TIDY5E.Show" : "montrer/éditer",
-	"TIDY5E.Hide" : "cacher",
-	"TIDY5E.Edit": "Editer",
-	"TIDY5E.SkillsNotProficient" : "pas compétent",
-	"TIDY5E.TraitsEmpty" : "trait vide",
+	"TIDY5E.Show" : "Montrer/Éditer",
+	"TIDY5E.Hide" : "Cacher",
+	"TIDY5E.Edit": "Éditer",
+	"TIDY5E.SkillsNotProficient" : "Non maîtrisé",
+	"TIDY5E.TraitsEmpty" : "Trait vide",
 
 	"TIDY5E.AbbrArmorClass" : "CA",
 
-	"TIDY5E.strAbility" : "For",
-	"TIDY5E.dexAbility" : "Dex",
-	"TIDY5E.conAbility" : "Con",
-	"TIDY5E.intAbility" : "Int",
-	"TIDY5E.wisAbility" : "Sag",
-	"TIDY5E.chaAbility" : "Cha",
+	"TIDY5E.strAbility" : "FOR",
+	"TIDY5E.dexAbility" : "DEX",
+	"TIDY5E.conAbility" : "CON",
+	"TIDY5E.intAbility" : "INT",
+	"TIDY5E.wisAbility" : "SAG",
+	"TIDY5E.chaAbility" : "CHA",
 
 	"TIDY5E.Abilities" : "Aptitudes",
 
